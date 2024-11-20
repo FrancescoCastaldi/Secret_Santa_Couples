@@ -1,4 +1,4 @@
-# Secret_Santa_Cuples
+# Secret_Santa_Couples
 Secret Santa Random Couple
 # 🎄 Secret Santa Gift Assignment Program
 
